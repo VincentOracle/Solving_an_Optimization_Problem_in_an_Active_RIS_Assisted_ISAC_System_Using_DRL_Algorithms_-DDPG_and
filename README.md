@@ -1,5 +1,4 @@
-## Solving an Optimization Problem in an Active RISAssisted ISAC System Using DRL Algorithms (DDPG
-and SAC).
+## Solving an Optimization Problem in an Active RISAssisted ISAC System Using DRL Algorithms (DDPG and SAC).
 
 This project focuses on solving an optimization problem in an active Reconfigurable Intelligent
 Surface (RIS)-assisted Integrated Sensing and Communication (ISAC) system using Deep
